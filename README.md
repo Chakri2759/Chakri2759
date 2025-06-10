@@ -1,5 +1,8 @@
-# 💫 About Me:
-👨‍💻 I'm a B.Tech Computer Science student at SRKR Engineering College, passionate about full-stack web development.  <br>🌐 Proficient in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, and CSS with hands-on experience building scalable web apps.  <br>📚 I’ve solved 400+ DSA problems on LeetCode and GFG, sharpening my algorithmic thinking and coding skills.  <br>🚀 Projects like CodeQuest, HolidayHub, and a real-time Chat App reflect my commitment to solving real-world problems.<br>
+# 💫 About me:
+👨‍💻 I'm a B.Tech Computer Science student at SRKR Engineering College, passionate about full-stack web development.  <br>
+🌐 Proficient in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, and CSS with hands-on experience building scalable web apps.  <br>
+📚 I’ve solved 400+ DSA problems on LeetCode and GFG, sharpening my algorithmic thinking and coding skills.  <br>
+🚀 Projects like CodeQuest, HolidayHub, and a real-time Chat App reflect my commitment to solving real-world problems.<br>
 
 
 ## 🌐 Socials:
