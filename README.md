@@ -1,5 +1,28 @@
 ## Hi there! 👋 I'm Ramisetti Venkata Sai Chakrarao  
-A passionate Full Stack Developer and Computer Science undergraduate at SRKR Engineering College, I specialize in building scalable and efficient web applications using the MERN stack. With a solid foundation in Data Structures and Algorithms, I’ve solved over 400 problems on LeetCode and GFG, sharpening my analytical and coding abilities. My projects — including **CodeQuest**, a platform for daily coding challenges, and **HolidayHub**, a dynamic rental system — reflect a strong commitment to solving real-world problems through clean architecture and modern development practices. I actively contribute to hackathons, lead technical initiatives, and constantly strive to turn ideas into impactful digital solutions.
+A passionate Full Stack Developer and Computer Science undergraduate at SRKR Engineering College, I specialize in building scalable and efficient web applications using the MERN stack. With a strong foundation in Data Structures and Algorithms, I’ve solved over 400 problems on LeetCode and GFG, sharpening my problem-solving and coding skills. 
+
+🔭 I’m currently working on  
+• Enhancing **CodeQuest** with advanced user analytics and multi-platform integration.  
+• **StartupBridge**: Connecting innovative startups with smart investors to build the future together.
+ 
+
+👯 Looking to collaborate on  
+• Full Stack projects using React, Node.js, Express, and MongoDB  
+• Tools that aid students and developers in learning, productivity, or collaboration  
+• Hackathons and open-source initiatives focused on education, productivity, or community  
+
+🌱 Currently learning  
+• TypeScript and Next.js 
+• Real-time data handling with Socket.io and WebSockets 
+
+
+💬 Ask me about  
+• Building scalable MERN stack applications  
+• Competitive programming and DSA problem-solving.
+
+📫 Let’s connect  
+[LinkedIn](https://www.linkedin.com/in/chakri555/) | [GitHub](https://github.com/Chakri2759) | [LeetCode](https://leetcode.com/u/chakriramisetti/) | [GFG](https://www.geeksforgeeks.org/user/chakriramisetti555/)
+
 
 
 
