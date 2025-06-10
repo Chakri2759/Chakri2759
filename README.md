@@ -12,7 +12,7 @@ A passionate Full Stack Developer and Computer Science undergraduate at SRKR Eng
 • Hackathons and open-source initiatives focused on education, productivity, or community  
 
 🌱 Currently learning  
-• TypeScript and Next.js 
+• TypeScript and advanced patterns in React and Zustand   
 • Real-time data handling with Socket.io and WebSockets 
 
 
