@@ -20,11 +20,6 @@ A passionate Full Stack Developer and Computer Science undergraduate at SRKR Eng
 • Building scalable MERN stack applications  
 • Competitive programming and DSA problem-solving.
 
-📫 Let’s connect  
-[LinkedIn](https://www.linkedin.com/in/chakri555/) | [GitHub](https://github.com/Chakri2759) | [LeetCode](https://leetcode.com/u/chakriramisetti/) | [GFG](https://www.geeksforgeeks.org/user/chakriramisetti555/)
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chakri__ramisetti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakri555/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakriramisetti555@gmail.com) 
