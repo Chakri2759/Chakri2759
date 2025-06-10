@@ -1,8 +1,6 @@
-# 💫 About me:
-👨‍💻 I'm a B.Tech Computer Science student at SRKR Engineering College, passionate about full-stack web development.  <br>
-🌐 Proficient in JavaScript, React.js, Node.js, Express.js, MongoDB, HTML, and CSS with hands-on experience building scalable web apps.  <br>
-📚 I’ve solved 400+ DSA problems on LeetCode and GFG, sharpening my algorithmic thinking and coding skills.  <br>
-🚀 Projects like CodeQuest, HolidayHub, and a real-time Chat App reflect my commitment to solving real-world problems.<br>
+Hi there! 👋 I'm Ramisetti Venkata Sai Chakrarao  
+A passionate Full Stack Developer and Computer Science undergraduate at SRKR Engineering College, I specialize in building scalable and efficient web applications using the MERN stack. With a solid foundation in Data Structures and Algorithms, I’ve solved over 400 problems on LeetCode and GFG, sharpening my analytical and coding abilities. My projects — including **CodeQuest**, a platform for daily coding challenges, and **HolidayHub**, a dynamic rental system — reflect a strong commitment to solving real-world problems through clean architecture and modern development practices. I actively contribute to hackathons, lead technical initiatives, and constantly strive to turn ideas into impactful digital solutions.
+
 
 
 ## 🌐 Socials:
